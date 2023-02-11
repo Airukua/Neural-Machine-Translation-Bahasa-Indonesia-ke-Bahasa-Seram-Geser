@@ -3,7 +3,7 @@ import streamlit as st
 # Title for the page and nice icon
 st.set_page_config(page_title="MalukuAI | Aplikasi Penerjemah Bahasa", page_icon="🤖")
 # Header
-st.title("Demo NMT Indonesia|Geser")
+st.title("Demo NMT Indonesia-Geser")
 st.subheader("Menyelamatkan Warisan Budaya: Bahasa Geser Terancam Punah")
 hide_st_style = """
             <style>
